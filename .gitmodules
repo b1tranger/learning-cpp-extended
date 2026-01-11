@@ -1,0 +1,4 @@
+[submodule "OpenGL-repo-link"]
+	path = learning-gui-client
+	url = https://github.com/b1tranger/learning-gui-client
+	branch = master
