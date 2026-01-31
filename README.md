@@ -2,6 +2,10 @@
 # learning-cpp-extended
 Learning about what comes after CLI programming in C/C++
 
+### # resources
+- https://roadmap.sh/cpp
+- https://github.com/salmer/CppDeveloperRoadmap
+
 ### # purpose
 - OpenGL | OpenGL is fundamentally a C API, meaning its functions can be called directly from a C program. | [Related Repo](https://github.com/b1tranger/learning-gui-client)
 - Arduino | Arduino programming involves writing "sketches" in a simplified C/C++ based language using the Arduino Integrated Development Environment (IDE) and uploading them to an Arduino board to control electronic components. The language is designed to be easy for beginners to learn.
